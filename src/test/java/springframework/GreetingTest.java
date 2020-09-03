@@ -49,4 +49,6 @@ class GreetingTest {
     public static void afterClass(){
         System.out.println("After!!! ***** - I am only called Once!!!");
     }
+    //./gradlew clean build
+    //to clean and build from terminal
 }
